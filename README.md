@@ -1,1 +1,1 @@
-https://yanavahomchik.github.io/lesson4/.
+https://yanavahomchik.github.io/lesson-4/.
